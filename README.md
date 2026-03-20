@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Abhinandan Yalamante</h1>
 
-<!--
-**Abhi37231/Abhi37231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Mobile Application Developer | Flutter & Android | AI-Assisted Development</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🎓 B.Tech Student (3rd Year)
+- 📱 Mobile App Developer (Flutter & Android)
+- 🤖 Using AI tools to improve development speed
+- 💼 Looking for Internship Opportunities
+
+---
+
+## 🌐 Portfolio
+👉 https://portfolio-phi-ashen-4i9pqyjggp.vercel.app/
+
+---
+
+## 💻 Projects
+- 📌 AssignMate – Student Resource Sharing App
+- 📌 Billing App – Shop billing system
+- 📌 Weather App – API based app
+- 📌 Expense Tracker
+- 📌 To-Do App
+
+---
+
+## 🛠️ Tech Stack
+- Languages: Java, C++, Python, Dart, SQL  
+- Web: HTML, CSS, JavaScript  
+- Tools: Flutter, Firebase, Git, GitHub  
+
+---
+
+## 📫 Contact Me
+- 📧 Email: abhinandanyalamante33@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/abhinandan-yalamante-8285112b2  
+
+---
+
+⭐️ From Abhi37231
