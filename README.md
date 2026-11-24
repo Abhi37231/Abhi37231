@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 About Me
-- 🎓 B.Tech Student (3rd Year)
+- 🎓 B.Tech Student (Final Year)
 - 📱 Mobile App Developer (Flutter & Android)
 - 🤖 Using AI tools to improve development speed
 - 💼 Looking for Internship Opportunities
